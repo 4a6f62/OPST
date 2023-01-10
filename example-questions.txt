@@ -127,3 +127,23 @@ a) By attempting to gain unauthorized access to systems and data
 b) By analyzing system logs
 c) By running automated tools and scanners
 d) By testing the security of the continuous integration, continuous delivery pipeline and the source control management
+
+21. What is the maximum size of a TCP packet?
+
+a) 64 bytes b) 128 bytes c) 512 bytes d) 65,535 bytes
+
+22. How does TCP handle packet loss?
+
+a) By resending the lost packet b) By ignoring the lost packet c) By requesting a retransmission of the lost packet d) By reducing the overall transmission rate
+
+23. What is the purpose of the Window field in a TCP packet?
+
+a) To identify the sender of the packet b) To indicate the number of bytes the receiver is willing to accept c) To indicate the number of bytes in the packet d) To indicate the maximum size of the packet
+
+24. How does TCP handle out-of-order packets?
+
+a) By discarding the out-of-order packets b) By requesting a retransmission of the out-of-order packets c) By reassembling the out-of-order packets in the correct order d) By sending an acknowledgement for the out-of-order packets
+
+25. How does TCP ensure data reliability?
+
+a) By requesting a retransmission of lost packets b) By sending an acknowledgement for received packets c) By using a checksum to detect errors in the data d) All of the above
